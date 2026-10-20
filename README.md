@@ -1,1 +1,2 @@
 "# MsDynamicsTutorial" 
+stack pr change
